@@ -9,7 +9,7 @@ I'm a junior studying Information Technology through the University of Missouri 
 * 🌍  I'm based in Austin, Texas
 * 😄 Pronouns: she/her/hers
 * ✉️  You can contact me at [overmanhannah@gmail.com](mailto:overmanhannah@gmail.com)
-* 🧠  I'm learning Java ☕
+* 🧠  I'm currently learning Java ☕
 * ⚡  The "Boba" in my username is the name of my grey kitten 🐱 ask for pics!
 
 ### Skills
