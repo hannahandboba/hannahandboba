@@ -1,16 +1,12 @@
 Hi 👋 My name is Hannah
 =======================
 
-Information Technology Major at the Mizzou
+Information Technology Major at the University of Missouri
 ------------------------------------------
 
-I'm a junior studying Information Technology through the University of Missouri (online!). I am most interested in becoming either a Product Manager or Software Engineer after graduation!
+I'm a junior studying Information Technology through the University of Missouri. I am most interested in becoming a Product or Program Manager after graduation!
 
-* 🌍  I'm based in Austin, Texas
-* 😄 Pronouns: she/her/hers
-* ✉️  You can contact me at [overmanhannah@gmail.com](mailto:overmanhannah@gmail.com)
-* 🧠  I'm currently learning Java ☕
-* ⚡  The "Boba" in my username is the name of my grey kitten 🐱 ask for pics!
+
 
 ### Skills
 
