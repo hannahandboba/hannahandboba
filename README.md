@@ -1,4 +1,4 @@
-Hi 👋 My name is Hannah Overman
+Hello! 💗 My name is Hannah Overman
 =======================
 
 Information Technology Major at the University of Missouri
@@ -6,16 +6,8 @@ Information Technology Major at the University of Missouri
 
 I'm a junior studying Information Technology through the University of Missouri. I am most interested in becoming a Product or Program Manager after graduation!
 
-                             ＿＿
-　　　　　🌸＞　　フ
-　　　　　| 　_　 _ l
-　 　　　／` ミ＿xノ
-　　 　 /　　　 　 |
-　　　 /　 ヽ　　 ﾉ
-　 　 │　　|　|　|
-　／￣|　　 |　|　|
-　| (￣ヽ＿_ヽ_)__)
-　＼二つ
+˖⁺‧₊˚♡˚₊‧⁺˖
+
 
 ### Skills
 
